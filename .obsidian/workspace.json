@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "22376cb2a35358b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9cf67d76855c9a5",
+        "type": "tabs",
+        "dimension": 58.97435897435898,
+        "children": [
+          {
+            "id": "f976790013a6b2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "50a4441a17bf7023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Legacy_HR_Payroll/Legacy HR Payroll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Legacy HR Payroll"
+            }
+          },
+          {
+            "id": "4b4a5085309076ee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "89f30ba89d3fe7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cryptography/One_Step_Ahead/one_step_ahead.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "one_step_ahead"
+            }
+          },
+          {
+            "id": "b3c9e5975f12f889",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Web/Network Looking Glass/1.png"
+              },
+              "icon": "lucide-image",
+              "title": "1"
+            }
+          },
+          {
+            "id": "c3b190bced9db4cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Network Looking Glass/network_looking_glass.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "network_looking_glass"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "316b788dddfbc1eb",
+        "type": "tabs",
+        "dimension": 41.02564102564102,
+        "children": [
+          {
+            "id": "9300221b051a1880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Legacy_HR_Payroll/Legacy HR Payroll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Legacy HR Payroll"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a1141ec406f1bd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e795f34c5cae5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c438326b9c2df9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a9b2fcc72a2d84fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db864103060eb109",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "853cbc927f7ea814",
+    "type": "split",
+    "children": [
+      {
+        "id": "5109c7ce19d3992b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbaa7f007b8754dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/Legacy_HR_Payroll/Legacy HR Payroll.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Legacy HR Payroll"
+            }
+          },
+          {
+            "id": "cb5c5d68d16a7c0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web/Legacy_HR_Payroll/Legacy HR Payroll.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Legacy HR Payroll"
+            }
+          },
+          {
+            "id": "496cf3a06d677143",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0bf68f1105a5ce73",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7a9a9b26de553ae9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web/Legacy_HR_Payroll/Legacy HR Payroll.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Legacy HR Payroll"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c3b190bced9db4cf",
+  "lastOpenFiles": [
+    "Web/Legacy_HR_Payroll/Legacy HR Payroll.md",
+    "Cryptography/One_Step_Ahead/one_step_ahead.md",
+    "Web/Network Looking Glass/network_looking_glass.md",
+    "Web/Network Looking Glass/3.png",
+    "Web/Network Looking Glass/2.png",
+    "Web/Network Looking Glass/1.png",
+    "Web/Network Looking Glass/1.md",
+    "Welcome.md",
+    "Web/Network Looking Glass",
+    "Cryptography/One_Step_Ahead/2.png",
+    "Cryptography/One_Step_Ahead/1.png",
+    "Cryptography/One_Step_Ahead",
+    "Cryptography",
+    "Web/Legacy_HR_Payroll/4.png",
+    "Web/Legacy_HR_Payroll/3.png",
+    "Web/Legacy_HR_Payroll/2.png",
+    "Web/Legacy_HR_Payroll/1.png",
+    "Web/Legacy_HR_Payroll",
+    "Web"
+  ]
+}
