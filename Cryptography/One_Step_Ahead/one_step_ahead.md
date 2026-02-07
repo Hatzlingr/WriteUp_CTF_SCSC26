@@ -1,8 +1,6 @@
 # One Step Ahead
 
 **Kategori**: Crypto  
-**Author**: your_nick  
-**Flag**: `SCSC26{pr1m3_con_fu_si_00n}`
 
 ---
 ## Deskripsi Challenge
@@ -17,7 +15,7 @@ Hint:
 - “Kadang yang penting bukan angkanya sekarang, tapi yang datang setelahnya.”
 - “Beberapa angka memang biasa… tapi yang spesial setelahnya sering menentukan hasil.”
 
-![Placeholder: isi chall.txt](Cryptography/One_Step_Ahead/1.png)
+![Placeholder: isi chall.txt](./1.png)
 
 ---
 ## Analisis Singkat
@@ -68,8 +66,6 @@ Untuk setiap `enc` di `encoded_result`:
 3. Jika `char_code + next_prime(char_code) == enc` → temukan karakter asli `chr(char_code)`.
     
 4. Gabungkan seluruh karakter menjadi flag.
-
-Tidak diperlukan teknik tambahan; ruang pencarian kecil dan brute force cukup.
 
 ---
 ## Script Akhir

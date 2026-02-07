@@ -80,12 +80,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Network Looking Glass/network_looking_glass.md",
-                "mode": "preview",
+                "file": "Cryptography/One_Step_Ahead/one_step_ahead.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "network_looking_glass"
+              "title": "one_step_ahead"
             }
           }
         ],
@@ -269,14 +269,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c3b190bced9db4cf",
   "lastOpenFiles": [
+    "Web/Network Looking Glass/network_looking_glass.md",
     "Web/Legacy_HR_Payroll/Legacy HR Payroll.md",
     "Cryptography/One_Step_Ahead/one_step_ahead.md",
-    "Web/Network Looking Glass/network_looking_glass.md",
     "Web/Network Looking Glass/3.png",
     "Web/Network Looking Glass/2.png",
     "Web/Network Looking Glass/1.png",
